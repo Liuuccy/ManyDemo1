@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ManyDemo1.iml" filepath="$PROJECT_DIR$/ManyDemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../oop class/oop class.iml" filepath="$PROJECT_DIR$/../oop class/oop class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../oop interface/oop interface.iml" filepath="$PROJECT_DIR$/../oop interface/oop interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../oopfinal/oopfinal.iml" filepath="$PROJECT_DIR$/../oopfinal/oopfinal.iml" />
+    </modules>
+  </component>
+</project>
